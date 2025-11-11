@@ -1,0 +1,30 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" 
+        Width="550" 
+        Height="200"
+        x:Class="Afanasev.BlockWindow"
+        Title="ВЫ ЗАБЛОКИРОВАНЫ">
+  <StackPanel Orientation="Vertical"
+              HorizontalAlignment="Center"
+              VerticalAlignment="Center">
+	  <TextBlock Text="Вы заблокированы. Обратитесь к администратору"
+              HorizontalAlignment="Center"
+              TextAlignment="Center"
+              FontSize="20"/>
+              <Button Name="ExitBtn"
+                Click="ExitBtn_Click"
+                Content="OK"
+                Width="150"
+                Height="50"
+                VerticalContentAlignment="Center"
+                Background="White"
+                BorderBrush="Black"
+                CornerRadius="10"
+                HorizontalContentAlignment="Center"
+                HorizontalAlignment="Center"
+                Margin="0,30,0,0"/>
+  </StackPanel>
+</Window>

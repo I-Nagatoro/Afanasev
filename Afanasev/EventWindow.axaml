@@ -1,0 +1,32 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" 
+        MaxWidth="400" 
+        MinWidth="400" 
+        MinHeight="170"
+        MaxHeight="170"
+        x:Class="Afanasev.EventWindow"
+        Title="Уведомление!">
+  <StackPanel Orientation="Vertical"
+              HorizontalAlignment="Center"
+              VerticalAlignment="Center">
+	  <TextBlock Name="EventTxt"
+              Width="250"
+              TextWrapping="Wrap"
+              HorizontalAlignment="Center"
+              TextAlignment="Center"/>
+      <Button Content="OK"
+              Width="100"
+              Height="40"
+              HorizontalContentAlignment="Center"
+              VerticalContentAlignment="Center"
+              Margin="0,10,0,0"
+              HorizontalAlignment="Center"
+              BorderBrush="Black"
+              Background="White"
+              CornerRadius="10"
+              Click="OK_Click"/>
+  </StackPanel>
+</Window>

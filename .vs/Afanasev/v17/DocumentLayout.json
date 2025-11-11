@@ -1,7 +1,64 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\demo\\source\\repos\\Afanasev\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|c:\\users\\demo\\source\\repos\\afanasev\\afanasev\\edituserwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|solutionrelative:afanasev\\edituserwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|c:\\users\\demo\\source\\repos\\afanasev\\afanasev\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|solutionrelative:afanasev\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|c:\\users\\demo\\source\\repos\\afanasev\\afanasev\\blockwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|solutionrelative:afanasev\\blockwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|c:\\users\\demo\\source\\repos\\afanasev\\afanasev\\blockwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|solutionrelative:afanasev\\blockwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|c:\\users\\demo\\source\\repos\\afanasev\\afanasev\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|solutionrelative:afanasev\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|c:\\users\\demo\\source\\repos\\afanasev\\afanasev\\edituserwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|solutionrelative:afanasev\\edituserwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|c:\\users\\demo\\source\\repos\\afanasev\\afanasev\\adduserwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|solutionrelative:afanasev\\adduserwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|c:\\users\\demo\\source\\repos\\afanasev\\afanasev\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|solutionrelative:afanasev\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|c:\\users\\demo\\source\\repos\\afanasev\\afanasev\\eventwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|solutionrelative:afanasev\\eventwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|c:\\users\\demo\\source\\repos\\afanasev\\afanasev\\adminwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|solutionrelative:afanasev\\adminwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|c:\\users\\demo\\source\\repos\\afanasev\\afanasev\\adminwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|solutionrelative:afanasev\\adminwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|c:\\users\\demo\\source\\repos\\afanasev\\afanasev\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|solutionrelative:afanasev\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|c:\\users\\demo\\source\\repos\\afanasev\\afanasev\\adduserwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|solutionrelative:afanasev\\adduserwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|c:\\users\\demo\\source\\repos\\afanasev\\afanasev\\eventwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|solutionrelative:afanasev\\eventwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +66,186 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlockWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\BlockWindow.axaml.cs",
+              "RelativeDocumentMoniker": "Afanasev\\BlockWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\BlockWindow.axaml.cs",
+              "RelativeToolTip": "Afanasev\\BlockWindow.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:35:18.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.axaml",
+              "DocumentMoniker": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\App.axaml",
+              "RelativeDocumentMoniker": "Afanasev\\App.axaml",
+              "ToolTip": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\App.axaml",
+              "RelativeToolTip": "Afanasev\\App.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T13:28:03.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddUserWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\AddUserWindow.axaml.cs",
+              "RelativeDocumentMoniker": "Afanasev\\AddUserWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\AddUserWindow.axaml.cs",
+              "RelativeToolTip": "Afanasev\\AddUserWindow.axaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:44:53.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "Afanasev\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\MainWindow.axaml",
+              "RelativeToolTip": "Afanasev\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T12:13:15.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\AdminWindow.axaml",
+              "RelativeDocumentMoniker": "Afanasev\\AdminWindow.axaml",
+              "ToolTip": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\AdminWindow.axaml",
+              "RelativeToolTip": "Afanasev\\AdminWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T12:12:12.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\AdminWindow.axaml.cs",
+              "RelativeDocumentMoniker": "Afanasev\\AdminWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\AdminWindow.axaml.cs",
+              "RelativeToolTip": "Afanasev\\AdminWindow.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:12:12.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\EventWindow.axaml",
+              "RelativeDocumentMoniker": "Afanasev\\EventWindow.axaml",
+              "ToolTip": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\EventWindow.axaml",
+              "RelativeToolTip": "Afanasev\\EventWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T12:31:45.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "Afanasev\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\MainWindow.axaml.cs",
+              "RelativeToolTip": "Afanasev\\MainWindow.axaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:09:29.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditUserWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\EditUserWindow.axaml",
+              "RelativeDocumentMoniker": "Afanasev\\EditUserWindow.axaml",
+              "ToolTip": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\EditUserWindow.axaml",
+              "RelativeToolTip": "Afanasev\\EditUserWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T13:05:57.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlockWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\BlockWindow.axaml",
+              "RelativeDocumentMoniker": "Afanasev\\BlockWindow.axaml",
+              "ToolTip": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\BlockWindow.axaml",
+              "RelativeToolTip": "Afanasev\\BlockWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T13:35:18.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Afanasev\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\Models\\User.cs",
+              "RelativeToolTip": "Afanasev\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:32:19.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditUserWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\EditUserWindow.axaml.cs",
+              "RelativeDocumentMoniker": "Afanasev\\EditUserWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\EditUserWindow.axaml.cs",
+              "RelativeToolTip": "Afanasev\\EditUserWindow.axaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:05:57.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddUserWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\AddUserWindow.axaml",
+              "RelativeDocumentMoniker": "Afanasev\\AddUserWindow.axaml",
+              "ToolTip": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\AddUserWindow.axaml",
+              "RelativeToolTip": "Afanasev\\AddUserWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T12:44:54.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\EventWindow.axaml.cs",
+              "RelativeDocumentMoniker": "Afanasev\\EventWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\EventWindow.axaml.cs",
+              "RelativeToolTip": "Afanasev\\EventWindow.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:31:44.906Z",
+              "EditorCaption": ""
             }
           ]
         }

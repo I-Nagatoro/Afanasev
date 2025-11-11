@@ -1,0 +1,64 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" 
+        MaxWidth="800" 
+        MinWidth="800" 
+        MinHeight="450"
+        MaxHeight="450"
+        x:Class="Afanasev.AdminWindow"
+        Title="Панель Администратора">
+    <StackPanel>
+        <StackPanel>
+           <TextBlock Text="Панель Администратора"
+                      FontSize="30"
+                      FontWeight="Bold"
+                      HorizontalAlignment="Center"
+                      Margin="0,10,0,0"/>
+        </StackPanel>
+    <StackPanel Orientation="Vertical"
+              VerticalAlignment="Center"
+              HorizontalAlignment="Center"
+              Margin="100">
+
+
+      <Button Content="Добавить пользователя"
+              Width="300"
+              Height="70"
+              Name="AddNewUser"
+              VerticalContentAlignment="Center"
+              Background="White"
+              BorderBrush="Black"
+              CornerRadius="10"
+              HorizontalContentAlignment="Center"
+              HorizontalAlignment="Center"
+              Margin="0,10,0,0"
+              Click="AddNewUser_Click"/>
+      <Button Content="Изменить пользователя"
+              Width="300"
+              Height="70"
+              Name="EditOldUser"
+              VerticalContentAlignment="Center"
+              Background="White"
+              BorderBrush="Black"
+              CornerRadius="10"
+              HorizontalContentAlignment="Center"
+              HorizontalAlignment="Center"
+              Margin="0,30,0,0"
+              Click="EditOldUser_Click"/>
+      <Button Content="Выход"
+              Width="150"
+              Height="50"
+              Name="Exit"
+              VerticalContentAlignment="Center"
+              Background="White"
+              BorderBrush="Black"
+              CornerRadius="10"
+              HorizontalContentAlignment="Center"
+              HorizontalAlignment="Center"
+              Margin="0,30,0,0"
+              Click="Exit_Click"/>
+  </StackPanel>
+    </StackPanel>
+</Window>
