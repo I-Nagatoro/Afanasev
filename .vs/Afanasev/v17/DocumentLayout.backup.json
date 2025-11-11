@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\demo\\source\\repos\\Afanasev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|c:\\users\\demo\\source\\repos\\afanasev\\afanasev\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|solutionrelative:afanasev\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|c:\\users\\demo\\source\\repos\\afanasev\\afanasev\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97A98F8-F622-4C72-82AA-9628B3E53AF3}|Afanasev\\Afanasev.csproj|solutionrelative:afanasev\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "Afanasev\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\MainWindow.axaml",
+              "RelativeToolTip": "Afanasev\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T10:28:16.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "Afanasev\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\demo\\source\\repos\\Afanasev\\Afanasev\\MainWindow.axaml.cs",
+              "RelativeToolTip": "Afanasev\\MainWindow.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:28:09.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
